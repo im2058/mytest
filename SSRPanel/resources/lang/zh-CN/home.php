@@ -5,7 +5,7 @@ return [
     'subscribe_address'               => '订阅服务',
     'copy_subscribe_address'          => '复制',
     'exchange_subscribe'              => '更换',
-    'subscribe_warning'               => '警告：该订阅地址仅限个人使用，请勿传播该地址，否则会导致您的账号流量使用情况异常触发自动封号机制。',
+    'subscribe_warning'               => '警告：该订阅地址仅限个人使用，请勿传播该地址，否则会导致您的账号流量使用情况异常触发自动封号机制。有问题请联系QQ:528501030,  QQ群5:123833942',
     'reset_password_title'            => '重置密码',
     'system_down'                     => '系统维护中',
     'subscribe_baned'                 => '您的订阅功能被禁用，请联系管理员恢复',
