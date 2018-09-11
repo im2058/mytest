@@ -82,7 +82,7 @@
                                         <div class="tab-content" style="font-size:16px;">
                                             <div class="tab-pane active" id="tools1">
                                                 <ol>
-                                                    <li> <a href="#" target="_blank">点击此处</a>下载客户端并启动 </li>
+                                                    <li> <a href="https://github.com/githello123/sstap/raw/master/SSTap-beta-setup-1.0.9.7.exe.7z" target="_blank">点击此处</a>下载客户端并启动 </li>
                                                     <li> 单击状态栏小飞机，找到服务器->编辑订阅，复制黏贴订阅地址 </li>
                                                     <li> 点击服务器->手动更新订阅，更新您的服务信息 </li>
                                                     <li> 更新成功后，请在服务器菜单处选择线路，并点击打开ShadowsocksR </li>
@@ -91,7 +91,7 @@
                                             </div>
                                             <div class="tab-pane" id="tools2">
                                                 <ol>
-                                                    <li> <a href="#" target="_blank">点击此处</a>下载客户端并启动 </li>
+                                                    <li> <a href="https://github.com/githello123/sstap/raw/master/SSTap-beta-setup-1.0.9.7.exe.7z" target="_blank">点击此处</a>下载客户端并启动 </li>
                                                     <li> 单击状态栏小飞机，找到服务器->订阅->订阅设置，复制黏贴订阅地址 </li>
                                                     <li> 点击状态栏小飞机，找到模式，选中PAC </li>
                                                     <li> 点击状态栏小飞机，找到PAC，选中更新PAC为GFWList </li>
@@ -107,15 +107,17 @@
                                             <div class="tab-pane" id="tools4">
                                                 <ol>
                                                     <li> 请从站长处获取App Store美区ID及教程 </li>
+                                                    <li> 或者直接在App Store里搜索ShadowRocket 下载即可 </li>
                                                 </ol>
                                             </div>
                                             <div class="tab-pane" id="tools5">
                                                 <ol>
-                                                    <li> <a href="#" target="_blank">点击此处</a>下载客户端并启动 </li>
+                                                    <li> <a href="https://github.com/shadowsocksrr/shadowsocksr-android/releases/download/3.5.4/shadowsocksr-android-3.5.4.apk" target="_blank">点击此处</a>下载客户端并启动 </li>
                                                     <li> 单击左上角的shadowsocksR进入配置文件页，点击右下角的“+”号，点击“添加/升级SSR订阅”，填入订阅信息并保存 </li>
                                                     <li> 选中任意一个节点，返回软件首页 </li>
                                                     <li> 在软件首页处找到“路由”选项，并将其改为“绕过局域网及中国大陆地址” </li>
                                                     <li> 点击右上角的小飞机图标进行连接，提示是否添加（或创建）VPN连接，点同意（或允许） </li>
+                                                    <li> 注意：安卓版客户端会出现添加订阅失败的可能，这时可以点击下面服务器上的小飞机，复制SSR链接导入即可 </li>
                                                 </ol>
                                             </div>
                                         </div>
